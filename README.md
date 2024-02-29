@@ -26,4 +26,8 @@ De acordo com as orientações do cliente, foi solicitado a plotagem de:
 
 ![image](https://github.com/juanlucas7/Data_Cleaning_Wrangling/assets/149596266/9813b9a9-f586-4531-b9a2-a8d94d0174e5)
 
+### Valor de Venda Total por Mês
+
+![image](https://github.com/juanlucas7/Data_Cleaning_Wrangling/assets/149596266/b11c3c10-24be-42b3-916b-741178401923)
+
 
