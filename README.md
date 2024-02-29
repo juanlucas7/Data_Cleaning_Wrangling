@@ -30,4 +30,11 @@ De acordo com as orientações do cliente, foi solicitado a plotagem de:
 
 ![image](https://github.com/juanlucas7/Data_Cleaning_Wrangling/assets/149596266/b11c3c10-24be-42b3-916b-741178401923)
 
+### Top 10 Valor de Venda Total por Mês e País 
+
+![image](https://github.com/juanlucas7/Data_Cleaning_Wrangling/assets/149596266/e0483cb0-2bb8-4552-8138-32334f6b700b)
+
+## 📋 Para o resultado final do Cálculo RFM, sugiro uma avaliação melhor do código e dos passos para uma melhor compreensão
+
+
 
